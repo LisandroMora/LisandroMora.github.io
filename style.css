@@ -1,0 +1,9 @@
+html, body{
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(129deg, rgba(2,0,36,1) 0%, rgba(4,4,85,1) 38%, rgba(21,82,94,1) 68%);
+    background: -webkit-linear-gradient(129deg, rgba(2,0,36,1) 0%, rgba(4,4,85,1) 38%, rgba(21,82,94,1) 68%);
+    background: linear-gradient(129deg, rgba(2,0,36,1) 0%, rgba(4,4,85,1) 38%, rgba(21,82,94,1) 68%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#15525e",GradientType=1);
+    overflow-x: hidden;
+    height: 100vh;
+}
